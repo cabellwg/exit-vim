@@ -7,7 +7,7 @@ Vim is scary. Here are **7 FACTS** that **YOU DIDN'T KNOW** about Vim that will 
  - Black holes trap all matter that passes beyond their event horizon using Vim.
  - Maya Angelou wrote "I Know Why the Caged Bird Sings" when she was trying to get out of Vim.
  - Vim either voted for Hillary Clinton or Donald Trump, whomever you liked less.
- - Vim doesn't support WASD _**or**_ the arrow keys!
+ - Vim only supports the arrow keys, not WASD.
  - The popular 2017 thriller "Get Out" was inspired by Jordan Peele trying to exit Vim.
  - Vim prefers T-Series.
 
