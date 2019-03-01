@@ -15,7 +15,7 @@ Vim is scary. Here are **7 FACTS** that **YOU DIDN'T KNOW** about Vim that will 
 ## Plugin Installation
 
 ##### With Vim 8.0 or higher:
-Clone this repository into `~/.vim/pack/<package_name>/exit-vim` where `<package_name>` can be anything you want (I would recommend a reference to a verse from your religious book of choice, to ward off the evil spirits lurking within the internals of the computational manifestation of the World of Darkness, Vim).
+Clone this repository into `~/.vim/pack/<package_name>/start/exit-vim` where `<package_name>` can be anything you want (I would recommend a reference to a verse from your religious book of choice, to ward off the evil spirits lurking within the internals of the computational manifestation of the World of Darkness, Vim).
 
 Pray, then run Vim. If for some reason your setup didn't work, you are now trapped. There is nothing anyone can do for you now. All hope is lost. Your best hope is button mashing. Maybe you'll figure it out before those monkeys get to Shakespeare.
 
