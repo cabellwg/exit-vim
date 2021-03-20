@@ -17,6 +17,16 @@ Vim is scary. Here are **7 FACTS** that **YOU DIDN'T KNOW** about Vim that will 
 ##### With Vim 8.0 or higher:
 Clone this repository into `~/.vim/pack/<package_name>/start/exit-vim` where `<package_name>` can be anything you want (I would recommend a reference to a verse from your religious book of choice, to ward off the evil spirits lurking within the internals of the computational manifestation of the World of Darkness, Vim).
 
+##### With your plugin manager:
+Edit your `.vimrc` or `init.vim` (**using something other than Vim**) to
+include
+
+```viml
+Plug 'cabellwg/exit-vim'
+```
+
+Then, run `$ vim -c 'PlugInstall' -c 'qa!'`. This example uses [vim-plug](https://github.com/junegunn/vim-plug), but the process is similar for any other package manager.
+
 Pray, then run Vim. If for some reason your setup didn't work, you are now trapped. There is nothing anyone can do for you now. All hope is lost. Your best hope is button mashing. Maybe you'll figure it out before those monkeys get to Shakespeare.
 
 With luck and the blessing of your divinity of choice, Vim will now auto-quit on startup. Congratulations. You have taken the first step on the path back to righteousness. May the Father grant you wisdom and the Mother have mercy on your past sins.
